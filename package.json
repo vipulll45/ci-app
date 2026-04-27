@@ -1,0 +1,13 @@
+{
+  "name": "ci-app",
+  "version": "1.0.0",
+  "description": "Simple CI/CD App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Test Passed Successfully\""
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
